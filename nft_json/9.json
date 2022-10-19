@@ -1,0 +1,32 @@
+[
+    {
+        "detail": "1na231b45fe9b01ab37643730383919780ac",
+        "name": "Mystic Characters",
+        "description": "These are a group of 21 mystic characters",
+        "image": "ipfs://QmSrSwboxekwhUfK5nKcbzK6xuTmNxhsiz643pmjqJfqPt/9.jpg",
+        "edition": 1,
+        "date": 1631901744994,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Light Pink"
+            },
+            {
+                "trait_type": "Daytime",
+                "value": "Day"
+            },
+            {
+                "trait_type": "Creature",
+                "value": "Vampire"
+            },
+            {
+                "trait_type": "Dominant Color",
+                "value": "Maroon"
+            },
+            {
+                "trait_type": "Wear",
+                "value": "Maroon"
+            }
+        ]
+    }
+]

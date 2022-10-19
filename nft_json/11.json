@@ -1,0 +1,32 @@
+[
+    {
+        "detail": "1nf15b45fe9b01ab3764373038391978006",
+        "name": "Mystic Characters",
+        "description": "These are a group of 21 mystic characters",
+        "image": "ipfs://QmSrSwboxekwhUfK5nKcbzK6xuTmNxhsiz643pmjqJfqPt/11.jpg",
+        "edition": 1,
+        "date": 1631901744994,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Purple"
+            },
+            {
+                "trait_type": "Daytime",
+                "value": "Night"
+            },
+            {
+                "trait_type": "Creature",
+                "value": "Monstrous Zombie"
+            },
+            {
+                "trait_type": "Dominant Color",
+                "value": "Green"
+            },
+            {
+                "trait_type": "Wear",
+                "value": "None"
+            }
+        ]
+    }
+]

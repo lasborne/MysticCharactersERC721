@@ -1,0 +1,32 @@
+[
+    {
+        "detail": "1nsfaab85fe9b01ab37643730383919796b5",
+        "name": "Mystic Characters",
+        "description": "These are a group of 21 mystic characters",
+        "image": "ipfs://QmSrSwboxekwhUfK5nKcbzK6xuTmNxhsiz643pmjqJfqPt/14.jpg",
+        "edition": 1,
+        "date": 1631901744994,
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Daytime",
+                "value": "Night"
+            },
+            {
+                "trait_type": "Creature",
+                "value": "Planets"
+            },
+            {
+                "trait_type": "Dominant Color",
+                "value": "Dark Blue"
+            },
+            {
+                "trait_type": "Wear",
+                "value": "None"
+            }
+        ]
+    }
+]
